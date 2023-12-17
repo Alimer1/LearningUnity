@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 1071.3334
     height: 1086.6666
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -125,10 +125,10 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1307.3334
-  m_MinSize: {x: 906, y: 371}
-  m_MaxSize: {x: 22001, y: 14021}
+  m_MinSize: {x: 908, y: 371}
+  m_MaxSize: {x: 22003, y: 14021}
   vertical: 0
-  controlID: 61
+  controlID: 67
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,10 +176,10 @@ MonoBehaviour:
     y: 0
     width: 1991.3334
     height: 1307.3334
-  m_MinSize: {x: 631, y: 371}
-  m_MaxSize: {x: 18001, y: 14021}
+  m_MinSize: {x: 633, y: 371}
+  m_MaxSize: {x: 18003, y: 14021}
   vertical: 1
-  controlID: 21186
+  controlID: 68
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -228,10 +228,10 @@ MonoBehaviour:
     y: 0
     width: 1991.3334
     height: 1086.6666
-  m_MinSize: {x: 631, y: 271}
-  m_MaxSize: {x: 18001, y: 10021}
+  m_MinSize: {x: 633, y: 271}
+  m_MaxSize: {x: 18003, y: 10021}
   vertical: 0
-  controlID: 21187
+  controlID: 69
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -254,7 +254,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1357.3334
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 421}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -321,7 +321,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Point URP
+    m_Text: Point URP*
     m_Image: {fileID: 2800000, guid: 7d62654fc399cc349a1ed7e0eab44ff0, type: 3}
     m_Tooltip: 
   m_Pos:
@@ -749,14 +749,14 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Unity\Projects\Project2
+  m_LastProjectPath: C:\Unity\Projects\LearningUnity\Project2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 60310000
     m_LastClickedID: 12640
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000e83d0000ea3d0000ec3d0000ee3d0000f03d0000f23d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -784,18 +784,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000005c3100005e31000022880000268800002a88000030880000ffffff7f
+    m_ExpandedIDs: ffffffff00000000e83d0000ea3d0000ec3d0000ee3d0000f03d0000f23d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Point URP
-      m_OriginalName: Point URP
+      m_Name: Graph
+      m_OriginalName: Graph
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 34844
+      m_UserData: 2680
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -905,9 +905,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9e880000
-      m_LastClickedID: 34974
-      m_ExpandedIDs: 08c6feff6607ffff96ecffff74fbffff9e880000
+      m_SelectedIDs: aa3d0000
+      m_LastClickedID: 15786
+      m_ExpandedIDs: 7cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

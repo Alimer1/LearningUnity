@@ -6,7 +6,7 @@ public class Graph : MonoBehaviour
     [SerializeField]
     Transform pointPrefab;
 
-    [SerializeField, Range(10,100000)]
+    [SerializeField, Range(1,100)]
     int resolution = 10;
 
     Transform[] points;
